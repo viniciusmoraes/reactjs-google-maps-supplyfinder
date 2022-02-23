@@ -1,0 +1,265 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setValidated"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"use",
+				"useEffect"
+			],
+			[
+				"eve",
+				"eventOnBlur"
+			],
+			[
+				"tar",
+				"target"
+			],
+			[
+				"err",
+				"Errors"
+			],
+			[
+				"ru",
+				"rules"
+			],
+			[
+				"ca",
+				"characters"
+			],
+			[
+				"car",
+				"character"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"num",
+				"numeroMax"
+			],
+			[
+				"nu",
+				"numeroMin"
+			],
+			[
+				"numer",
+				"numeroMin"
+			],
+			[
+				"Numero",
+				"NumeroAleatorio"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/viniciusmoraes/Desktop/codux/react-supplyfinder"
+	],
+	"file_history":
+	[
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/src/index.js",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/src/Components/Basicos/Hooks/UseState.js",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/src/Components/UseStateComponent.js",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/src/Components/Basicos/Hooks/useState.js",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/Dockerfile",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/README.md",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/server-midd-and-app.sh",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/package.json",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/server-middleware.js",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/middleware/middleware.js",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/logs/2022-02-12T21_28_46_913Z-debug-0.log",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/src/Components/Basicos/Hooks/useEffect.js",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/src/Components/Basicos/Hooks/useRef.js",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/src/Components/Basicos/Hooks/useMemo.js",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/src/Components/Basicos/useRef.js",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/src/Components/Basicos/FormAccount.js",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/logs/2022-02-11T22_38_28_380Z-debug-0.log",
+		"/Users/viniciusmoraes/Desktop/codux/no-queue/web/app/src/Components/Basicos/Fatorial.js",
+		"/Users/viniciusmoraes/Desktop/wrk/livro-reactjs/my-app/src/components/App/App.js",
+		"/Users/viniciusmoraes/Desktop/wrk/livro-reactjs/my-app/src/components/Basicos/Fatorial.js",
+		"/Users/viniciusmoraes/Desktop/wrk/livro-reactjs/my-app/src/components/Layout/Card/Card.css",
+		"/Users/viniciusmoraes/Desktop/wrk/livro-reactjs/my-app/src/components/Layout/Card/Card.js",
+		"/Users/viniciusmoraes/Desktop/wrk/livro-reactjs/my-app/src/components/Product/Product.js",
+		"/Users/viniciusmoraes/Desktop/wrk/livro-reactjs/my-app/src/components/Basicos/Basicos.js",
+		"/Users/viniciusmoraes/Desktop/wrk/livro-reactjs/my-app/src/components/Product/Product.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/viniciusmoraes/Desktop/codux/react-supplyfinder"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

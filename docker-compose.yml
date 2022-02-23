@@ -1,0 +1,16 @@
+version: '3.7'
+services:
+  app:
+    container_name: react-supply-finder
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '/Users/viniciusmoraes/Desktop/codux/react-supplyfinder/logs:/home/node/.npm/_logs/'
+      - '/Users/viniciusmoraes/Desktop/codux/react-supplyfinder:/home/node/app'
+      - '/home/node/app/node_modules'
+    ports:
+      - '3000:3000'
+      - '3001:3001'
+    environment:
+      - NODE_ENV=development
