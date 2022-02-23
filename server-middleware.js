@@ -10,7 +10,7 @@ app.use(cors({
 }));
 
 app.post('/location', function (req, res, next) {
-    axios.post('https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyAdyTk7naYMEsrxFVaCMFAep0p2JIU3U_s')
+    axios.post('https://www.googleapis.com/geolocation/v1/geolocate?key=')
         .then(function (response) {
             // handle success
             res.json(response.data)

@@ -2,7 +2,7 @@ const { Loader } = require('@googlemaps/js-api-loader')
 
 
 const loader = new Loader({
-    apiKey: "AIzaSyAdyTk7naYMEsrxFVaCMFAep0p2JIU3U_s",
+    apiKey: "",
     version: "weekly",
     libraries: ["geometry"]
 });
